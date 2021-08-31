@@ -653,6 +653,8 @@ footer .text span a:hover{
    nav.sticky .menu a:hover{
      color:var(--primary-color);
    }
+	nav .navbar .media-icons{
+		diplay:block;}
    nav .menu-btn,
    .navbar .menu .cancel-btn{
      display:block;
